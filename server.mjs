@@ -67,3 +67,4 @@ mongoose.connect('mongodb+srv://ShayanFeroz:12345@bootcampprojectsh.dvowsfb.mong
 .catch ((error) => {
     console.log(error.message)
 })
+
